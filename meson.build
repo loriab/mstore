@@ -53,7 +53,7 @@ mstore_dep = declare_dependency(
 )
 
 # Add applications
-subdir('app')
+#subdir('app')
 
 # Package the license files
 mstore_lic = files(
